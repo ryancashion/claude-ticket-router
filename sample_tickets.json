@@ -1,0 +1,18 @@
+[
+  {"id": "T-001", "expected_category": "billing", "expected_urgency": "medium",
+   "text": "Hi, I was charged twice for my October invoice (#88213). Can someone fix this and confirm the duplicate will be reversed?"},
+  {"id": "T-002", "expected_category": "technical_issue", "expected_urgency": "critical",
+   "text": "Our whole contact center is down. Agents see a blank screen after login and calls are piling up. We have 400 agents idle right now. This is costing us a fortune."},
+  {"id": "T-003", "expected_category": "account_access", "expected_urgency": "medium",
+   "text": "I got locked out after too many password attempts. My email is dana@example.com. Can you unlock me? I have a report due this afternoon."},
+  {"id": "T-004", "expected_category": "feature_request", "expected_urgency": "low",
+   "text": "Love the product! It would be great if the dashboard let us export adoption trends to CSV by team. Not urgent, just a suggestion."},
+  {"id": "T-005", "expected_category": "refund_request", "expected_urgency": "medium",
+   "text": "We upgraded to the Enterprise tier last week but never got the onboarding we were promised. I'd like a refund for the upgrade fee."},
+  {"id": "T-006", "expected_category": "cancellation", "expected_urgency": "high",
+   "text": "We are not renewing in January. Adoption never took off with our supervisors and leadership wants to cut costs. Please send cancellation steps."},
+  {"id": "T-007", "expected_category": "technical_issue", "expected_urgency": "high",
+   "text": "The API has been returning 429 errors intermittently since this morning and it's breaking our nightly sync. This is the third time this month and I'm honestly fed up."},
+  {"id": "T-008", "expected_category": "other", "expected_urgency": "low",
+   "text": "Do you have a W-9 on file for vendor setup? Our procurement team is asking."}
+]
